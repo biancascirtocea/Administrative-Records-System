@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestMain" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-12-23T22:21:47" hostname="LAPTOP-153SFI20" time="1.002">
+  <properties/>
+  <testcase name="coliziuniCicluStudiiContestatii10()" classname="org.example.TestMain" time="0.311"/>
+  <testcase name="coliziuniMedie08()" classname="org.example.TestMain" time="0.052"/>
+  <testcase name="toateFunctionalitatile12()" classname="org.example.TestMain" time="0.095"/>
+  <testcase name="inroleazaSimplu05()" classname="org.example.TestMain" time="0.067"/>
+  <testcase name="posteazaMedii01()" classname="org.example.TestMain" time="0.042"/>
+  <testcase name="posteazaMediiContestatii02()" classname="org.example.TestMain" time="0.056"/>
+  <testcase name="posteazaMediiContestatii03()" classname="org.example.TestMain" time="0.048"/>
+  <testcase name="posteazaMediiContestatii04()" classname="org.example.TestMain" time="0.046"/>
+  <testcase name="inroleazaCicluStudiiContestatii07()" classname="org.example.TestMain" time="0.071"/>
+  <testcase name="inroleazaCicluStudii06()" classname="org.example.TestMain" time="0.064"/>
+  <testcase name="coliziuniCicluStudii09()" classname="org.example.TestMain" time="0.083"/>
+  <testcase name="exceptieSimplu11()" classname="org.example.TestMain" time="0.055"/>
+  <system-out><![CDATA[Studentul Carter este deja inscris!
+Studentul Fiona este deja inscris!
+Studentul Karen este deja inscris!
+Studentul Larry este deja inscris!
+Studentul Alina este deja inscris!
+Studentul Razvan este deja inscris!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
